@@ -4,7 +4,10 @@ A visually enhanced directory tree viewer written in C, featuring colorful icons
 
 ## Example
 
-IMG
+<div align="center">
+    <img src="https://github.com/Miraneek/Colerful-Tree-Cli/blob/master/example.png?raw=true" width="300" alt="Example Image">
+</div>
+
 
 ## ✨ Features
 
@@ -33,23 +36,23 @@ IMG
 1. **Clone or download** the source files:
 2. **Build the executable**:
 ```bash
-    gcc main.c -o tree
+gcc main.c -o tree
 ```
 3. **Make executable**
 ```bash
-    chmod +x tree
+chmod +x tree
 ```
 4. **Run the compiled binary**: `./tree`
 5. **Optional: Install system-wide**:
 ```bash
-    sudo cp tree /usr/local/bin/
+sudo cp tree /usr/local/bin/
 ```
 
 
 ## 📝 Usage
 Just run the executable in the desired directory.
 ```bash
-    ./tree
+tree
 ```
 
 
