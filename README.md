@@ -26,6 +26,7 @@ A visually enhanced directory tree viewer written in C, featuring colorful icons
 ## 📋 Requirements
 
 - **GCC Compiler**
+- **[Nerd Font](https://www.nerdfonts.com/)**
 - **POSIX-compliant system** (Linux, macOS, WSL on Windows)
 - **Terminal with Unicode support** for proper icon display
 
