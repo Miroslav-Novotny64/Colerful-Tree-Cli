@@ -39,7 +39,7 @@ A visually enhanced directory tree viewer written in C, featuring colorful icons
 ```bash
 gcc main.c -o tree
 ```
-3. **Make executable**
+3. **Make the file exacutable**
 ```bash
 chmod +x tree
 ```
